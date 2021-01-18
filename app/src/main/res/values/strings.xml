@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CapstoneProject</string>
+    <string name="choose_time_text">Choose Time</string>
+    <string name="set_alarm_text">Set Alarm</string>
+    <string name="alarm_deleted">Alarm deleted!</string>
+    <string name="create_alarm_title">Schedule Alarm</string>
+</resources>
+
